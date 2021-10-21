@@ -1,0 +1,98 @@
+[
+	  {
+       "name":"C#",
+       "designed_by":"Microsoft Corporation",
+       "logo":"http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/csharp.jpg",
+       "first_appeared": 2000,
+       "website": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/",
+       "about": "C# is a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines."
+      },
+      {
+       "name":"C++",
+       "designed_by":"Bjarne Stroustrup",
+       "logo":"http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/c++.jpg",
+       "first_appeared": 1985,
+       "website": "http://www.isocpp.org",
+       "about": "C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation. "
+      },
+	  {
+       "name":"Java ",
+       "designed_by":"James Gosling",
+       "logo":"http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/java.png",
+       "first_appeared": 1995,
+       "website": "https://www.oracle.com/java/",
+       "about": "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented,[15] and specifically designed to have as few implementation dependencies as possible."
+      },
+	  {
+       "name":"JavaScript",
+       "designed_by":"Brendan Eich",
+       "logo":"http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/js.jpg",
+       "first_appeared": 1995,
+       "website": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+       "about": "JavaScript, often abbreviated as JS, is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm. "
+      },
+	  {
+       "name":"MATLAB",
+       "designed_by":"MathWorks",
+       "logo":"http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/matlab.jpg",
+       "first_appeared": 1984,
+       "website": "https://www.mathworks.com/products/matlab.html",
+       "about": "MATLAB (matrix laboratory) is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks."
+      },
+	  {
+       "name":"Perl",
+       "designed_by":"Larry Wall",
+       "logo":"http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/perl.jpg",
+       "first_appeared": 1987,
+       "website": "https://www.perl.org/",
+       "about": "Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages."
+      },
+      {
+       "name":"R",
+       "designed_by":"Ross Ihaka",
+       "logo": "http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/r.png",
+       "first_appeared": 1993,
+       "website": "http://www.r-project.org",
+       "about": "R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. Polls, data mining surveys and studies of scholarly literature databases, show substantial increases in popularity in recent years. As of August 2018, R ranks 18th in the TIOBE index, a measure of popularity of programming languages"
+      },
+      {
+       "name":"python",
+       "designed_by":"Guido van Rossum",
+       "logo": "http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/python.png",
+       "first_appeared": 1990,
+       "website": "http://www.python.org",
+       "about": "Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales. In July 2018, Van Rossum stepped down as the leader in the language community after 30 years."
+      },
+      {
+       "name":"Swift",
+       "designed_by":"Chris Lattner",
+       "logo": "http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/swift.png",
+       "first_appeared": 2014,
+       "website": "http://www.swift.org",
+       "about": "Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, macOS, watchOS, tvOS, and Linux. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products. It is built with the open source LLVM compiler framework and has been included in Xcode since version 6. On platforms other than Linux, it uses the Objective-C runtime library which allows C, Objective-C, C++ and Swift code to run within one program."
+      },
+      {
+       "name":"Scala",
+       "designed_by":"Martin Odersky",
+       "logo": "http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/scala.jpg",
+       "first_appeared": 2004,
+       "website": "http://www.scala-lang.org",
+       "about": "Scala is a general-purpose programming language providing support for functional programming and a strong static type system. Designed to be concise, many of Scala's design decisions aimed to address criticisms of Java"
+      },
+      {
+       "name":"Ruby",
+       "designed_by":"Yukihiro Matsumoto",
+       "logo": "http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/ruby.png",
+       "first_appeared": 1995,
+       "website": "http://www.ruby-lang.org",
+       "about": "Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro  Matsumoto in Japan. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, and Lisp. It supports multiple programming paradigms, including functional, object-oriented, and imperative. It also has a dynamic type system and automatic memory management."
+      },
+      {
+       "name":"php",
+       "designed_by":"Rasmus Lerdorf",
+       "logo": "http://www.cpl.uh.edu/courses/ubicomp/fall2018/webservice/logos/php.jpg",
+       "first_appeared": 1995,
+       "website": "http://secure.php.net",
+       "about": "PHP: Hypertext Preprocessor (or simply PHP) is a server-side scripting language designed for Web development, but also used as a general-purpose programming language. It was originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Group. PHP originally stood for Personal Home Page, but it now stands for the recursive initialism PHP: Hypertext Preprocessor."
+      }
+]
